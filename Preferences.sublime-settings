@@ -1,0 +1,35 @@
+{
+	"binary_file_patterns":
+	[
+		"*.*.map",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
+	"default_encoding": "UTF-8",
+	"font_face": "Source Code pro",
+	"font_size": 9,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Modific",
+		"Vintage"
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"tab_size": 4,
+	"theme": "Asphalt.sublime-theme",
+	"translate_tabs_to_spaces": false
+}

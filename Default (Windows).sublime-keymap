@@ -1,0 +1,14 @@
+[
+	{ "keys": ["ctrl+f1"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+
+		// Alignment
+    { "keys": ["ctrl+i"], "command": "reindent"},
+	{ "keys": ["ctrl+l"], "command": "alignment" ,  "context":
+		[
+			{ "key": "selection_empty", "operator": "equal", "operand": false, "match_all": true }
+		]
+	},
+
+	{ "keys": ["alt+c"], "command": "close_tag" }
+
+]
