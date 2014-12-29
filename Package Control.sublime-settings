@@ -1,4 +1,12 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -14,6 +22,7 @@
 		"Modific",
 		"Numix Theme",
 		"Origami",
+		"Package Control",
 		"Seti_UI",
 		"Sublime Bookmarks",
 		"Syntax Highlighting for Sass",
