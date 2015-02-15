@@ -1,0 +1,5 @@
+[
+        { "keys": ["super+@"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+        { "keys": ["alt+super+m"], "command": "close_tag" },
+        { "keys": ["ctrl+i"], "command": "reindent"}
+]
