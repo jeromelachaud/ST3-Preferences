@@ -10,27 +10,18 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
-		"Autoprefixer",
 		"BracketHighlighter",
 		"Color Highlighter",
-		"Color Scheme - Vintage Terminal",
 		"Emmet",
 		"HTML-CSS-JS Prettify",
-		"LESS",
 		"LiveStyle",
 		"Minify",
 		"Modific",
-		"Numix Theme",
 		"Origami",
 		"Package Control",
 		"Seti_UI",
 		"Sublime Bookmarks",
 		"Syntax Highlighting for Sass",
-		"Theme - Asphalt",
-		"Theme - Brogrammer",
-		"Theme - Flatland",
-		"Theme - Numix",
-		"Theme - Orchis",
-		"Theme - Spacegray"
+
 	]
 }
