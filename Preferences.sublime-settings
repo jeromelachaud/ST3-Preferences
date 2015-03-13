@@ -27,8 +27,8 @@
 		"Modific",
 		"Vintage"
 	],
-	"line_padding_bottom": 2,
-	"line_padding_top": 2,
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
 	"tab_size": 4,
 	"theme": "Asphalt.sublime-theme",
 	"translate_tabs_to_spaces": false
