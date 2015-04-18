@@ -11,18 +11,19 @@
 	[
 		"AdvancedNewFile",
 		"BracketHighlighter",
-		"Color Highlighter",
 		"Colorsublime",
 		"Emmet",
-		"Jade",
 		"HTML-CSS-JS Prettify",
+		"Jade",
+		"JSHint Gutter",
 		"Origami",
 		"Package Control",
 		"Sass",
 		"SCSS",
+		"SublimeLinter",
+		"SublimeLinter-jscs",
 		"Theme - Asphalt",
 		"Theme - Flatland",
 		"Theme - Spacegray"
-
 	]
 }
