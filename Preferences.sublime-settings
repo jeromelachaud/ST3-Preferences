@@ -20,8 +20,9 @@
 	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
 	"default_encoding": "UTF-8",
 	"font_face": "Source Code pro",
-	// For lower resolution : "Andale Mono"
+	// alt : "Andale Mono"
 	"font_size": 9,
+	// "font_size": 11, for "Andale Mono"
 	"highlight_line": true,
 	"ignored_packages":
 	[
