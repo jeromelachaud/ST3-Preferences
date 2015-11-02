@@ -1,4 +1,4 @@
 ST3-Preferences
 ===============
 
-Mes préférences pour Sublime Text 3
+My settings for Sublime Text 3
