@@ -17,26 +17,24 @@
 		"*.zip"
 	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/Theme - Spacegray/base16-ocean.dark.tmTheme",
-	"default_encoding": "UTF-8",
+	"color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
 	"draw_white_space": "all",
-	"font_face": "Source Code pro",
-	// alt : "Andale Mono"
-	"font_size": 9,
-	// "font_size": 11, for "Andale Mono"
+	"font_face": "Andale Mono",
+	"font_size": 11.5,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Modific",
 		"Vintage"
 	],
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
-	"tab_size": 4,
-	"theme": "Asphalt.sublime-theme",
+	"insert_final_newline": true,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"tab_size": 2,
+	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	"ensure_newline_at_eof_on_save": true,
 	"trim_trailing_white_space_on_save": true,
+	"trim_trailing_whitespace": true
 	"indent_guide_options":
 	    [
 	        "draw_normal",
